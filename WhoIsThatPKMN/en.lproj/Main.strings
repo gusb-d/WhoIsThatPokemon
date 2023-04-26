@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Loser! Your Score is : 25"; ObjectID = "2EO-vC-OXi"; */
+"2EO-vC-OXi.text" = "Loser! Your Score is : 25";
+
+/* Class = "UIButton"; configuration.title = "Pikachu"; ObjectID = "BAa-Sr-qhs"; */
+"BAa-Sr-qhs.configuration.title" = "Pikachu";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BAa-Sr-qhs"; */
+"BAa-Sr-qhs.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Who is that pokemon? "; ObjectID = "E3x-7v-MMN"; */
+"E3x-7v-MMN.text" = "Who is that pokemon? ";
+
+/* Class = "UIButton"; configuration.title = "Caravanha"; ObjectID = "HxB-Ax-FXm"; */
+"HxB-Ax-FXm.configuration.title" = "Caravanha";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HxB-Ax-FXm"; */
+"HxB-Ax-FXm.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Score: 0"; ObjectID = "KJK-KR-OSK"; */
+"KJK-KR-OSK.text" = "Score: 0";
+
+/* Class = "UILabel"; text = "No, It´s pikachu."; ObjectID = "KNe-Xe-vdf"; */
+"KNe-Xe-vdf.text" = "No, It´s pikachu.";
+
+/* Class = "UIButton"; configuration.title = "Staravia"; ObjectID = "Kte-B6-rXI"; */
+"Kte-B6-rXI.configuration.title" = "Staravia";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Kte-B6-rXI"; */
+"Kte-B6-rXI.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Flaffy"; ObjectID = "Rt5-ny-9b8"; */
+"Rt5-ny-9b8.configuration.title" = "Flaffy";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Rt5-ny-9b8"; */
+"Rt5-ny-9b8.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Who is that pokemon? "; ObjectID = "dyp-uV-Pr7"; */
+"dyp-uV-Pr7.text" = "Who is that pokemon? ";
+
+/* Class = "UIButton"; configuration.title = "Jugar de nuevo"; ObjectID = "eKA-9v-gVc"; */
+"eKA-9v-gVc.configuration.title" = "Jugar de nuevo";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "eKA-9v-gVc"; */
+"eKA-9v-gVc.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Score: 0"; ObjectID = "osl-ym-iHl"; */
+"osl-ym-iHl.text" = "Score: 0";
+
+/* Class = "UILabel"; text = "Yes. It´s one pikachu."; ObjectID = "ucs-vt-DaG"; */
+"ucs-vt-DaG.text" = "Yes. It´s one pikachu.";
